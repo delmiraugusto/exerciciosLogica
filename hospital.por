@@ -1,5 +1,14 @@
 programa
 {
+	/* Grupo 2
+	 * Daniele dias
+	 * Delmir
+	 * Gabriela Couto
+	 * Marcos Medeiros
+	 * Mariana Monteiro
+	 */
+
+	
 	inclua biblioteca Util --> u
 	
 	cadeia quartos[20], nomes[20][2], especialidade
@@ -150,9 +159,9 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 2940; 
+ * @POSICAO-CURSOR = 110; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {quartos, 5, 8, 7}-{nomes, 5, 21, 5};
+ * @SIMBOLOS-INSPECIONADOS = {quartos, 14, 8, 7}-{nomes, 14, 21, 5};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
